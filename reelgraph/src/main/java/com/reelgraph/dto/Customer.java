@@ -10,4 +10,8 @@ public class Customer {
     private String name;
     private Genre genre;
     private List<Integer> watchList;
+
+    public Genre getFavoriteGenre() {
+        return null;
+    }
 }
